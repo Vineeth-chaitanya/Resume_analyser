@@ -1,0 +1,10 @@
+pandas
+numpy
+spacy
+gensim
+wordcloud
+jsonlines
+nltk
+plotly
+pyLDAvis
+seaborn
